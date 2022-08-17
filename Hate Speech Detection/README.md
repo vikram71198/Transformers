@@ -14,8 +14,8 @@ batch_size = 8
 
 warmup_steps = 500
 
-Average F-1 Score : 0.75
+Average F-1 Score : 0.77
 
-Recall on Hate Speech : 0.91 (Pretty Good !)
+Recall on Hate Speech : 0.93 (Pretty Good !)
 
 You can find the fine tuned model [here](https://drive.google.com/drive/folders/18TTJ2KVJcMdWKXYJcYRz1fCr4kzDDVEn)
