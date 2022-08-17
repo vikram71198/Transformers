@@ -4,7 +4,7 @@ Following are the Large Language Models (LLMs)/ Transformers I fine tune from Hu
 
 I did get a warning from GPT-3 because of the nature of my prompt and the output (hate speech) it generated haha 
 
-For every one of my experiments, the dataset (original + GPT-3 generated) have been split 75/15/10 into training, validation & test sets. I've pre-set my code to automatically select the best performing model based on the validation loss.
+For every one of my experiments, the dataset (original + GPT-3 generated) have been split 75/15/10 into training, validation & test sets. I've pre-set my code to automatically select the best performing model based on the validation loss. I also used the Tesla T4 GPUs on Colab for training & inference.
 
 The following hyperparameter settings were constant throughout all experiments across different transformers for better comparison:
 
