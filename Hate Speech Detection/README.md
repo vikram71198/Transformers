@@ -1,3 +1,5 @@
+## Hate Speech Detection
+
 Ethos is a dataset containing phrases labelled as hate speech or not hate speech. This dataset was class imbalanced, which is why I prompted GPT-3 to generate training examples for the minority class.
 
 I did get a warning from GPT-3 because of the nature of my prompt and the output (hate speech) it generated haha 
