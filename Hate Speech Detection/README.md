@@ -31,3 +31,11 @@ Average F-1 Score : 0.76
 Recall on Hate Speech : 0.89 (Pretty Good !)
 
 You can find the fine tuned model [here](https://drive.google.com/drive/folders/122j6bvBA2sozbtF-Us69pB6n64QQCbx4)
+
+3. RoBERTa-base:
+
+Average F-1 Score : 0.73
+
+Recall on Hate Speech : 0.62 (Not very good !)
+
+You can find the fine tuned model [here](https://drive.google.com/drive/u/0/folders/10LYi2mSvcaq4WvU-EjxbCYgXO8gyJ_X7)
