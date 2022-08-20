@@ -43,3 +43,11 @@ Average F-1 Score : 0.73
 Recall on Hate Speech : 0.62 (Not very good !)
 
 You can find the fine tuned model [here](https://drive.google.com/drive/u/0/folders/10LYi2mSvcaq4WvU-EjxbCYgXO8gyJ_X7)
+
+4.AlBERT-base-v2:
+
+Average F-1 Score : 0.73
+
+Recall on Hate Speech : 0.69 (Not very good !)
+
+You can find the fine tuned model [here](https://drive.google.com/drive/u/0/folders/11UPZqX2DRj2VK78nkVxRRsdxyuUtzKya)
